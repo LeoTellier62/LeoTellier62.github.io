@@ -1,6 +1,6 @@
 # Mon Super Site
 
-#### Intro
+## Intro
 Ma Super Intro
 
 [Retour à la page d'acceuil](index.md)
